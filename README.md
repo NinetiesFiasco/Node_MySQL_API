@@ -1,2 +1,2 @@
-# Node_mongo_API
-Full rest API nodeJS with MongoDB (insert, select, update) 
+# Node_MySQL_API
+Full rest API nodeJS with MySQL (insert, select, update) 
